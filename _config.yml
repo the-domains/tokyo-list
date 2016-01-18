@@ -1,0 +1,28 @@
+name: Tokyo List
+favicon: null
+layout_spectrum: 0.6858309505041689
+typography_spectrum: 0.13393438747152686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.42818824714049697
+  lightness: 0.11347796441987157
+  saturation: 0.45355517929419875
+  rhythmicContrast: 0.7918252912349999
+purpose: []
